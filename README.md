@@ -14,4 +14,4 @@ The project is an implementation of a class for working with tree-like data stru
 
 ### Clone the repository to your local computer and use the following commands:
 1. `node index.js` to execute 
-2. `npm test` to tes
+2. `npm test` to test
